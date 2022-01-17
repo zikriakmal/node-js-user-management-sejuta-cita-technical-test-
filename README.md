@@ -1,4 +1,3 @@
-# Technical test sejuta cita backend
 
 # How to deploy on development
 
